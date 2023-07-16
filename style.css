@@ -1,0 +1,15 @@
+/* reset css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    list-style: none;
+    color: inherit;
+}
+
+li {
+    list-style: none;
+}
